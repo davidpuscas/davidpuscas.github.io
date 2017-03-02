@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:#238D8D;
+	margin:0;
+	padding:0;
+}
+#storbox{
+	background-color:#FFF;
+	width:1000px;
+	height:900px;
+	margin:auto;
+}
+header{
+	background-color:#63C4C4;
+	width:1000px;
+	height:100px;
+	
+}
+h1{
+	font-size:50px;
+	margin:0;
+	padding:0;
+	text-align:center;
+	font-variant:small-caps;
+}
+nav{
+	background-color:#3DA4A4;
+	width:1000px;
+	height:50px;
+}
+ul{
+	list-style:none;
+	text-align:center;
+	padding:0;
+	margin:0;
+}
+li{
+	line-height:40px;
+	float:left;
+	margin-left:100px;
+	font-size:15px;
+}
+article{
+	background-color:#C9F4F4;
+	width:800px;
+	height:750px;
+	float:left;
+}
+aside{
+	background-color:#63C4C4;
+	width:200px;
+	height:750px;
+	float:left;
+}
+.bild{
+	margin-left:25px;
+}
+a{
+	text-decoration:none;
+	color:#03F;
+}
+p{
+	padding:10px;
+}
+
+#fakta
+{
+	background-color:#63C4C4;
+	width:200px;
+	height:750px;
+	float:left;
+}
